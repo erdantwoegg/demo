@@ -1,0 +1,1 @@
+<view><navigator url="/pages/index/index">首页</navigator><navigator url="/pages/about/about">about</navigator><view class="_h2">姓名列表页面</view></view>

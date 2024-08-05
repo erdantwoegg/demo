@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/about/about"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "洪铭测试页面",
+    "navigationBarBackgroundColor": "#dd5432",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
